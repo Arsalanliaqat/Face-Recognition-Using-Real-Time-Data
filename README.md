@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Credits
-- [https://github.com/EngrArslanLiaqat/](https://github.com/EngrArslanLiaqat/) ### Clone this repository
+- [https://github.com/Arsalanliaqat/](https://github.com/Arsalanliaqat/) ### Clone this repository
 - Open project in android studio
 - Optional: Configure firebase if required. Check out comments in ReviewResults activity
 - Compile, install the Apk
